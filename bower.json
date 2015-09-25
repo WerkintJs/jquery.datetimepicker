@@ -1,0 +1,11 @@
+{
+    "name":         "jquery.datetimepicker",
+    "version":      "2.4.5",
+    "dependencies": {
+        "requirejs.css":  "*",
+        "datetimepicker": "*"
+    },
+    "main":         [
+        "jquery.datetimepicker.js"
+    ]
+}
