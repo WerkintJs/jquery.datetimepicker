@@ -6,6 +6,8 @@
         "datetimepicker": "*"
     },
     "main":         [
-        "jquery.datetimepicker.js"
+        "jquery.datetimepicker.js",
+        "datetimepicker/jquery.datetimepicker.js",
+        "datetimepicker/jquery.datetimepicker.css"
     ]
 }
